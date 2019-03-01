@@ -2,7 +2,7 @@
 
 ## Instructions
 1. Install virtualenv
-2. `git clone `
+2. `git clone git@github.com:nicholaschris/excel_splitter.git`
 3. `cd excel_splitter`
 4. `virtualenv -p python3 venv`
 5. `source venv/bin/activate`
